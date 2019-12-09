@@ -1,3 +1,23 @@
+Resources Kavramları
+
+
+R Sınıfının Önemi
+-anim
+-attr
+-bool
+-color
+-draweble
+-id
+-int
+-layout
+-mipmap
+-string
+-style
+-styleable
+
+
+
+
 res klasörünün önemi
 -drawable
 --Uygulma içerisindeki rsimleri saklayabileceğimiz klasördür.
@@ -22,7 +42,7 @@ res klasörünün önemi
 --uygulama içi menu xml dosyaları üretmek için bu klasörü kullanırız.
 -navigation
 -raw
---ses /müzik dosyaları ve videoların barındırılabileceği bir klasördür. mp3,mp4,mov,avi gibi
+--ses/müzik dosyaları ve videoların barındırılabileceği bir klasördür. mp3,mp4,mov,avi gibi
 -transition
 --xml uzantılı sayyfa geçiş animasyonları tanımlarının barındırılabileceği bir klasördür.
 -xml
