@@ -25,9 +25,6 @@ kısaca ilgili dosyayı değişkeni çağırıabilmek için kullanıyoruz class 
 --uygulamaya ait tema tanımlarını çağırabilmek için kullanabilir.
 -styleable
 
-
-
-
 ----res klasörünün önemi----
 -drawable
 --Uygulma içerisindeki rsimleri saklayabileceğimiz klasördür.
@@ -39,6 +36,8 @@ kısaca ilgili dosyayı değişkeni çağırıabilmek için kullanıyoruz class 
 --uygulama logolarının ekleneceği klasördür.
 --.xml ,png,jpg uzantıları klasöre eklenebilir.
 -values
+--colors.xml, dimen/s.xml, strings.xml, syles.xml
+values klasöründe bulunan özel dosya isimleridir, her bir dosyanın farklı bir kullanım amacı vardır.
 -anim
 --xml uzantılı dosyalar içersine animasyon kodları yazılabilir.
 -anamatör
