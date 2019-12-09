@@ -1,5 +1,4 @@
-Resources Kavramları
-
+                                             ------Resources Kavramları------
 
 ----R Sınıfının Önemi----
 kısaca ilgili dosyayı değişkeni çağırıabilmek için kullanıyoruz class vs
@@ -24,7 +23,7 @@ kısaca ilgili dosyayı değişkeni çağırıabilmek için kullanıyoruz class 
 -style
 --uygulamaya ait tema tanımlarını çağırabilmek için kullanabilir.
 -styleable
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ----res klasörünün önemi----
 -drawable
 --Uygulma içerisindeki rsimleri saklayabileceğimiz klasördür.
@@ -56,3 +55,4 @@ values klasöründe bulunan özel dosya isimleridir, her bir dosyanın farklı b
 --xml uzantılı sayyfa geçiş animasyonları tanımlarının barındırılabileceği bir klasördür.
 -xml
 --xml dosyalarının ayrıca üretebileceği bir klasördür.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
