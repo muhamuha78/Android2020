@@ -1,1 +1,33 @@
-rtjhs
+Life Cycle Metotları Yasam Döngüsü 
+-OnCreate
+--metotu nesne referans tanımlamaları,değişken değer ataması işlemleri, 
+nesnelerin olaylarının(listenerlar) tanımlamalarının yapabileceği kod bloğudur.(metot)
+--OnCreate metodu activity sayfasının üretilmesi zamanını temsil eder.
+
+-OnStart
+--Activity sayfası üretildikten sonra (OnCreate çalıştıktan sonra) çalışan kod bloğudur.(metot)
+
+-OnResume
+--Activity sayfasının çalışmaya devam ettiği zaman temsil eder.
+
+-OnPause
+--activity sayfası sona ermeden önce uğranacak ilk metottur
+
+-OnStop
+--OnPause'dan sonra çalışan metottur
+--Activity sayfasının kapatılması zamanı temsil eder.
+
+-OnDestroy
+--OnStop metotundan sonra çalışır. 
+--Activity sayfasının tamamen sona ermesini temsil eder.
+--Activity sınıfı metodu olan finish() metodu sayesinden OnDestroy metdou tetiklenebilir.
+--isteğe bağlıdır
+
+-OnRestart
+--Alta indirilmiş uygulamanın tekrar açılması zamanını temsil eder.
+--isteğe bağlıdır.
+
+
+
+
+
