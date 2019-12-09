@@ -1,4 +1,4 @@
-Life Cycle Metotları Yasam Döngüsü 
+                                     ------Life Cycle Metotları Yasam Döngüsü------
 -OnCreate
 --metotu nesne referans tanımlamaları,değişken değer ataması işlemleri, 
 nesnelerin olaylarının(listenerlar) tanımlamalarının yapabileceği kod bloğudur.(metot)
