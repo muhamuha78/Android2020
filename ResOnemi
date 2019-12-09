@@ -1,24 +1,34 @@
 Resources Kavramları
 
 
-R Sınıfının Önemi
+----R Sınıfının Önemi----
+kısaca ilgili dosyayı değişkeni çağırıabilmek için kullanıyoruz class vs
 -anim
 -attr
 -bool
 -color
+--Uygulama içerisinde herhangi bir color xml dosyasını tanımlanmış renk kodlarını değişken gibi çağırabilmek için kullanabilir.
+-dimen
+--Uygulama içerisinde ölçü tanımlamalarını değişken gibi çağırabilmek için kullanabilir.
 -draweble
 -id
--int
+--xml tarafından herhangi bir layout dosyası içersinde ismi belirtilmiş olan bir nesneye erişim sağlayabilmek için kullanılır. 
+  Örn: R.id.ivResim
+-integer
 -layout
+-- Örn: setContentView(R.layout.activity_main);
 -mipmap
+--Mipmap klasörünün altına atılan dosya ismini çağırabilmek için kullanılabilir.
 -string
+--strimng .xml dosyası içerisine eklenmiş olan xml taglerinin değerleri değişken gibi çağırabilmek için kullanabilir.
 -style
+--uygulamaya ait tema tanımlarını çağırabilmek için kullanabilir.
 -styleable
 
 
 
 
-res klasörünün önemi
+----res klasörünün önemi----
 -drawable
 --Uygulma içerisindeki rsimleri saklayabileceğimiz klasördür.
 --drawable klasörüne png,jpg,xml(vectörel cizim dosyları) eklenebilir.
