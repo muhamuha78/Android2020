@@ -1,0 +1,29 @@
+res klasörünün önemi
+-drawable
+--Uygulma içerisindeki rsimleri saklayabileceğimiz klasördür.
+--drawable klasörüne png,jpg,xml(vectörel cizim dosyları) eklenebilir.
+-Layout
+--Uygulamata ait arayüz sayfalarının saklanabileceği klasördür.
+--içersinde sadece .xml layout sayfaları üretebilir.
+-Mipmap
+--uygulama logolarının ekleneceği klasördür.
+--.xml ,png,jpg uzantıları klasöre eklenebilir.
+-values
+-anim
+--xml uzantılı dosyalar içersine animasyon kodları yazılabilir.
+-anamatör
+--xml uzantılı dosyalar içersine animasyon kodları yazılabilir.
+-color
+--xml uzantılı renk kodların tanımlarının saklanabileeceği klasördür.
+-font
+--font dosyalaırnın barındırılabileceği bir klasördür.
+-ınterpolator
+-menu
+--uygulama içi menu xml dosyaları üretmek için bu klasörü kullanırız.
+-navigation
+-raw
+--ses /müzik dosyaları ve videoların barındırılabileceği bir klasördür. mp3,mp4,mov,avi gibi
+-transition
+--xml uzantılı sayyfa geçiş animasyonları tanımlarının barındırılabileceği bir klasördür.
+-xml
+--xml dosyalarının ayrıca üretebileceği bir klasördür.
